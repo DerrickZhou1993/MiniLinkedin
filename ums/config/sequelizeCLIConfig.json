@@ -1,0 +1,14 @@
+{
+    "development": {
+        "username": "app_user",
+        "password": "Password!",
+        "database": "ums",
+        "host": "127.0.0.1",
+        "port": "3306",
+        "dialect": "mysql",
+        "seederStorage": "sequelize",
+        "define": {
+            "underscored": true
+        }
+    }
+}
